@@ -1,3 +1,4 @@
 <p align="center">
-  <a href="#"><img src="/data/lain.gif"></a>
+  <h1>Hi, my name is Danya, you can also call me Lasha.</h1>
+  <h3>Computer science student.</h3>
 <p>
